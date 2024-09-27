@@ -1,4 +1,2 @@
 python-dotenv
-html5lib
-lxml
 httpx
