@@ -1,3 +1,5 @@
 python-dotenv
 httpx
 PyQt5
+google_auth_httplib2
+google_auth_oauthlib
